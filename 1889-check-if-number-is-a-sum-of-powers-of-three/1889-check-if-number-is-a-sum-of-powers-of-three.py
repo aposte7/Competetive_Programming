@@ -14,4 +14,3 @@ class Solution:
                 sqr = 1
         if n == 0 or n ==-1:
             return True
-        return False
