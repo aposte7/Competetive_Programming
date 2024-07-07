@@ -10,8 +10,8 @@ class Solution:
             if ranges[i][0] > left:
                 return False
             if ranges[i][1] >= right:
-                return True    
-            left = ranges[i][1] + 1
-
+                return True
+            if ranges[i][0] <= left:
+                left = ranges[i][1] + 1
         if not ((left_1 <= left) and (right_1 >= right)):
             return False
