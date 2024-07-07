@@ -3,5 +3,5 @@ class Solution:
         set_1=set(range(left,right+1))
         set_2=set()
         for start,end in ranges:
-            set_2 |= set(range(start,end+1))
+            set_2 |= {x for x in range(start,end+1)}
         return set_1 <= set_2
