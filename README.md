@@ -44,4 +44,8 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [1797-goal-parser-interpretation](https://github.com/simera7/Competetive_Programming/tree/master/1797-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
