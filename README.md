@@ -54,6 +54,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/simera7/Competetive_Programming/tree/master/0013-roman-to-integer) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/simera7/Competetive_Programming/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1797-goal-parser-interpretation](https://github.com/simera7/Competetive_Programming/tree/master/1797-goal-parser-interpretation) |
 ## Sorting
 |  |
