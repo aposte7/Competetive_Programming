@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
+| [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/simera7/Competetive_Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/simera7/Competetive_Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -44,6 +45,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/simera7/Competetive_Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Counting
 |  |
@@ -55,6 +57,7 @@
 | [0013-roman-to-integer](https://github.com/simera7/Competetive_Programming/tree/master/0013-roman-to-integer) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/simera7/Competetive_Programming/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1797-goal-parser-interpretation](https://github.com/simera7/Competetive_Programming/tree/master/1797-goal-parser-interpretation) |
 ## Sorting
 |  |
