@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/simera7/Competetive_Programming/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/simera7/Competetive_Programming/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/simera7/Competetive_Programming/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
@@ -54,6 +56,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -66,6 +69,11 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/simera7/Competetive_Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
