@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/simera7/Competetive_Programming/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/simera7/Competetive_Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/simera7/Competetive_Programming/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/simera7/Competetive_Programming/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/simera7/Competetive_Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -64,5 +66,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/simera7/Competetive_Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
