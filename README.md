@@ -16,6 +16,7 @@
 | [0013-roman-to-integer](https://github.com/simera7/Competetive_Programming/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/simera7/Competetive_Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/simera7/Competetive_Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2556-convert-the-temperature](https://github.com/simera7/Competetive_Programming/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/simera7/Competetive_Programming/tree/master/2812-find-the-maximum-achievable-number) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/simera7/Competetive_Programming/tree/master/0002-add-two-numbers) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/simera7/Competetive_Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/simera7/Competetive_Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Hash Table
 |  |
@@ -54,6 +57,7 @@
 |  |
 | ------- |
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/simera7/Competetive_Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Counting
 |  |
@@ -80,4 +84,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
