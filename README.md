@@ -38,6 +38,7 @@
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/simera7/Competetive_Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2551-apply-operations-to-an-array](https://github.com/simera7/Competetive_Programming/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/simera7/Competetive_Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2551-apply-operations-to-an-array](https://github.com/simera7/Competetive_Programming/tree/master/2551-apply-operations-to-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -93,4 +95,5 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/simera7/Competetive_Programming/tree/master/0344-reverse-string) |
+| [2551-apply-operations-to-an-array](https://github.com/simera7/Competetive_Programming/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
