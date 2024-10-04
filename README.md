@@ -32,6 +32,7 @@
 | [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/simera7/Competetive_Programming/tree/master/0283-move-zeroes) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/simera7/Competetive_Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -94,6 +95,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/simera7/Competetive_Programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/simera7/Competetive_Programming/tree/master/0344-reverse-string) |
 | [2551-apply-operations-to-an-array](https://github.com/simera7/Competetive_Programming/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
