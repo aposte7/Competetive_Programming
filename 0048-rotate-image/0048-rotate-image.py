@@ -4,19 +4,19 @@ class Solution:
         left =0
 
         while right > left:
-            for x in range(right-left):
-                top = left
-                bottom = right
-
-                y = matrix[top][left + x]
-
-                matrix[top][left + x] = matrix[bottom - x][left]
-                matrix[bottom - x][left] = matrix[bottom][right - x]
-                matrix[bottom][right - x] =  matrix[top + x][right] 
-                matrix[top + x][right] = y
-
+            matrix[left], matrix[right] =matrix[right],  matrix[left]
             right-=1
             left+=1
+
+        
+        for x in range(len(matrix) ):
+            for y in range(x+1, len(matrix)):
+                matrix[x][y], matrix[y][x] =  matrix[y][x], matrix[x][y]
+        return matrix
+
+
+
+
         return matrix
 
 
