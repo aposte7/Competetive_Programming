@@ -14,6 +14,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/simera7/Competetive_Programming/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/simera7/Competetive_Programming/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/simera7/Competetive_Programming/tree/master/0048-rotate-image) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/simera7/Competetive_Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/simera7/Competetive_Programming/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/simera7/Competetive_Programming/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
@@ -102,5 +104,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/simera7/Competetive_Programming/tree/master/0048-rotate-image) |
 | [0661-image-smoother](https://github.com/simera7/Competetive_Programming/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
