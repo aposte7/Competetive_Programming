@@ -3,9 +3,7 @@ class Solution:
         row = len(matrix)
         col = len(matrix[0])
 
-        res =[[0] * row for x in range(col)]
 
-        for r in range(row):
-            for c in range(col):
-                res[c][r] = matrix[r][c]
+        res=[[matrix[r][c] for r in range(row)] for c in range(col) ]
+
         return res
