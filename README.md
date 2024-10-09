@@ -35,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/simera7/Competetive_Programming/tree/master/0283-move-zeroes) |
+| [0498-diagonal-traverse](https://github.com/simera7/Competetive_Programming/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/simera7/Competetive_Programming/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/simera7/Competetive_Programming/tree/master/0898-transpose-matrix) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
@@ -64,6 +65,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/simera7/Competetive_Programming/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/simera7/Competetive_Programming/tree/master/0898-transpose-matrix) |
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/simera7/Competetive_Programming/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/simera7/Competetive_Programming/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/simera7/Competetive_Programming/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/simera7/Competetive_Programming/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
