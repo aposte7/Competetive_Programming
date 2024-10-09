@@ -36,6 +36,7 @@
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/simera7/Competetive_Programming/tree/master/0283-move-zeroes) |
 | [0661-image-smoother](https://github.com/simera7/Competetive_Programming/tree/master/0661-image-smoother) |
+| [0898-transpose-matrix](https://github.com/simera7/Competetive_Programming/tree/master/0898-transpose-matrix) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/simera7/Competetive_Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -63,6 +64,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/simera7/Competetive_Programming/tree/master/0898-transpose-matrix) |
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/simera7/Competetive_Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -108,4 +110,5 @@
 | ------- |
 | [0048-rotate-image](https://github.com/simera7/Competetive_Programming/tree/master/0048-rotate-image) |
 | [0661-image-smoother](https://github.com/simera7/Competetive_Programming/tree/master/0661-image-smoother) |
+| [0898-transpose-matrix](https://github.com/simera7/Competetive_Programming/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
