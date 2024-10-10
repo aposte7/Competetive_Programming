@@ -46,6 +46,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/simera7/Competetive_Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/simera7/Competetive_Programming/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/simera7/Competetive_Programming/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2502-sort-the-people](https://github.com/simera7/Competetive_Programming/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/simera7/Competetive_Programming/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/simera7/Competetive_Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2502-sort-the-people](https://github.com/simera7/Competetive_Programming/tree/master/2502-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/simera7/Competetive_Programming/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1797-goal-parser-interpretation](https://github.com/simera7/Competetive_Programming/tree/master/1797-goal-parser-interpretation) |
+| [2502-sort-the-people](https://github.com/simera7/Competetive_Programming/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/simera7/Competetive_Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2502-sort-the-people](https://github.com/simera7/Competetive_Programming/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
