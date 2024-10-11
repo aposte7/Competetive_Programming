@@ -39,6 +39,7 @@
 | [0661-image-smoother](https://github.com/simera7/Competetive_Programming/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/simera7/Competetive_Programming/tree/master/0898-transpose-matrix) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
+| [1217-relative-sort-array](https://github.com/simera7/Competetive_Programming/tree/master/1217-relative-sort-array) |
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/simera7/Competetive_Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
@@ -57,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
+| [1217-relative-sort-array](https://github.com/simera7/Competetive_Programming/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/simera7/Competetive_Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2502-sort-the-people](https://github.com/simera7/Competetive_Programming/tree/master/2502-sort-the-people) |
@@ -95,6 +97,7 @@
 | [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
+| [1217-relative-sort-array](https://github.com/simera7/Competetive_Programming/tree/master/1217-relative-sort-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/simera7/Competetive_Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2502-sort-the-people](https://github.com/simera7/Competetive_Programming/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
@@ -118,4 +121,8 @@
 | [0498-diagonal-traverse](https://github.com/simera7/Competetive_Programming/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/simera7/Competetive_Programming/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/simera7/Competetive_Programming/tree/master/0898-transpose-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/simera7/Competetive_Programming/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
