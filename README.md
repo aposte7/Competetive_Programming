@@ -31,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/simera7/Competetive_Programming/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/simera7/Competetive_Programming/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/simera7/Competetive_Programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
@@ -94,6 +95,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/simera7/Competetive_Programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
@@ -111,6 +113,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/simera7/Competetive_Programming/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/simera7/Competetive_Programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/simera7/Competetive_Programming/tree/master/0344-reverse-string) |
 | [2551-apply-operations-to-an-array](https://github.com/simera7/Competetive_Programming/tree/master/2551-apply-operations-to-an-array) |
