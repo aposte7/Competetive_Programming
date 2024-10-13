@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/simera7/Competetive_Programming/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/simera7/Competetive_Programming/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/simera7/Competetive_Programming/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/simera7/Competetive_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/simera7/Competetive_Programming/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/simera7/Competetive_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/simera7/Competetive_Programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/simera7/Competetive_Programming/tree/master/0344-reverse-string) |
 | [1009-pancake-sorting](https://github.com/simera7/Competetive_Programming/tree/master/1009-pancake-sorting) |
@@ -144,5 +146,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/simera7/Competetive_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/simera7/Competetive_Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
