@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/simera7/Competetive_Programming/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/simera7/Competetive_Programming/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/simera7/Competetive_Programming/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/simera7/Competetive_Programming/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/simera7/Competetive_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -130,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/simera7/Competetive_Programming/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/simera7/Competetive_Programming/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/simera7/Competetive_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/simera7/Competetive_Programming/tree/master/0283-move-zeroes) |
@@ -154,6 +156,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/simera7/Competetive_Programming/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/simera7/Competetive_Programming/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/simera7/Competetive_Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/simera7/Competetive_Programming/tree/master/1009-pancake-sorting) |
