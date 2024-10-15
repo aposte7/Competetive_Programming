@@ -15,6 +15,7 @@
 | [0002-add-two-numbers](https://github.com/simera7/Competetive_Programming/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/simera7/Competetive_Programming/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/simera7/Competetive_Programming/tree/master/0048-rotate-image) |
+| [0633-sum-of-square-numbers](https://github.com/simera7/Competetive_Programming/tree/master/0633-sum-of-square-numbers) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/simera7/Competetive_Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -133,6 +134,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/simera7/Competetive_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/simera7/Competetive_Programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/simera7/Competetive_Programming/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/simera7/Competetive_Programming/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/simera7/Competetive_Programming/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/simera7/Competetive_Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/simera7/Competetive_Programming/tree/master/1009-pancake-sorting) |
@@ -159,5 +161,6 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/simera7/Competetive_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/simera7/Competetive_Programming/tree/master/0633-sum-of-square-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/simera7/Competetive_Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
