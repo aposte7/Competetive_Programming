@@ -52,6 +52,7 @@
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/simera7/Competetive_Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/simera7/Competetive_Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1603-running-sum-of-1d-array](https://github.com/simera7/Competetive_Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/simera7/Competetive_Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -80,6 +81,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/simera7/Competetive_Programming/tree/master/1603-running-sum-of-1d-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/simera7/Competetive_Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Simulation
 |  |
