@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/simera7/Competetive_Programming/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/simera7/Competetive_Programming/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/simera7/Competetive_Programming/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/simera7/Competetive_Programming/tree/master/0768-partition-labels) |
 | [0990-verifying-an-alien-dictionary](https://github.com/simera7/Competetive_Programming/tree/master/0990-verifying-an-alien-dictionary) |
@@ -146,6 +147,7 @@
 | [0011-container-with-most-water](https://github.com/simera7/Competetive_Programming/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/simera7/Competetive_Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/simera7/Competetive_Programming/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/simera7/Competetive_Programming/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/simera7/Competetive_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/simera7/Competetive_Programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/simera7/Competetive_Programming/tree/master/0283-move-zeroes) |
