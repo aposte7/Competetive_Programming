@@ -23,6 +23,7 @@
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/simera7/Competetive_Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2556-convert-the-temperature](https://github.com/simera7/Competetive_Programming/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/simera7/Competetive_Programming/tree/master/2812-find-the-maximum-achievable-number) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/simera7/Competetive_Programming/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/simera7/Competetive_Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/simera7/Competetive_Programming/tree/master/1635-number-of-good-pairs) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/simera7/Competetive_Programming/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [1449-print-words-vertically](https://github.com/simera7/Competetive_Programming/tree/master/1449-print-words-vertically) |
 | [1797-goal-parser-interpretation](https://github.com/simera7/Competetive_Programming/tree/master/1797-goal-parser-interpretation) |
 | [2502-sort-the-people](https://github.com/simera7/Competetive_Programming/tree/master/2502-sort-the-people) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/simera7/Competetive_Programming/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Sorting
 |  |
 | ------- |
