@@ -40,6 +40,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/simera7/Competetive_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/simera7/Competetive_Programming/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/simera7/Competetive_Programming/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/simera7/Competetive_Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/simera7/Competetive_Programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/simera7/Competetive_Programming/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/simera7/Competetive_Programming/tree/master/0239-sliding-window-maximum) |
@@ -84,6 +85,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/simera7/Competetive_Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/simera7/Competetive_Programming/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/simera7/Competetive_Programming/tree/master/1603-running-sum-of-1d-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/simera7/Competetive_Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/simera7/Competetive_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/simera7/Competetive_Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/simera7/Competetive_Programming/tree/master/0633-sum-of-square-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/simera7/Competetive_Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Design
@@ -189,6 +192,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/simera7/Competetive_Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/simera7/Competetive_Programming/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
