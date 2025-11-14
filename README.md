@@ -22,6 +22,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/simera7/Competetive_Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/simera7/Competetive_Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/simera7/Competetive_Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2491-smallest-even-multiple](https://github.com/simera7/Competetive_Programming/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/simera7/Competetive_Programming/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/simera7/Competetive_Programming/tree/master/2812-find-the-maximum-achievable-number) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/simera7/Competetive_Programming/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
@@ -203,4 +204,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/simera7/Competetive_Programming/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/simera7/Competetive_Programming/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
