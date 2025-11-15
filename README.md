@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/simera7/Competetive_Programming/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/simera7/Competetive_Programming/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/simera7/Competetive_Programming/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/simera7/Competetive_Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/simera7/Competetive_Programming/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/simera7/Competetive_Programming/tree/master/0075-sort-colors) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/simera7/Competetive_Programming/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/simera7/Competetive_Programming/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/simera7/Competetive_Programming/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/simera7/Competetive_Programming/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/simera7/Competetive_Programming/tree/master/0768-partition-labels) |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/simera7/Competetive_Programming/tree/master/2491-smallest-even-multiple) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/simera7/Competetive_Programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
